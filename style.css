@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+.header {
+    background-color: #1a2b4c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.sub-header {
+    text-align: center;
+    font-size: 18px;
+    color: #444;
+    padding: 10px;
+}
+.section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.steps {
+    background-color: #aaf4c4;
+}
+.results {
+    background-color: #f9d6b8;
+}
+h2 {
+    text-align: center;
+    color: green;
+}
+h3 {
+    color: red;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    padding: 5px;
+    font-size: 16px;
+    color: #007bff;
+}
+.footer {
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+    background-color: #1a2b4c;
+    color: white;
+}
